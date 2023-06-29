@@ -1,8 +1,3 @@
-"""
-Python Programming (ACFI827)
-Assignment 1: Individual Assignment 1
-Student ID- 201666867
-"""
 import random
 import datetime
 import time
